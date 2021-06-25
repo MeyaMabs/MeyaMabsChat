@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "348973756749",
+    "firebase_url": "https://meyamabschat-default-rtdb.firebaseio.com",
+    "project_id": "meyamabschat",
+    "storage_bucket": "meyamabschat.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:348973756749:android:3f9777ac93e77f8a0e0704",
+        "android_client_info": {
+          "package_name": "com.example.meyamabschat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "348973756749-46vmmaq24phvined22tpe8rgc6jj7piu.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.meyamabschat",
+            "certificate_hash": "01d4f5a14a647549b67f1e6bcef560c46e47ac84"
+          }
+        },
+        {
+          "client_id": "348973756749-a7lslgsl5595p31qjf5hop4tuin1siv6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAJRxSV_XT6Ozjp059pIfEUA0SuwA37P58"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "348973756749-a7lslgsl5595p31qjf5hop4tuin1siv6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
